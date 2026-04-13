@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Except these files
+!.gitignore
+!DAILY-X-PROMPT.md
+!README.md
