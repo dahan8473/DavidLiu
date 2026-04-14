@@ -4,4 +4,5 @@
 # Except these files
 !.gitignore
 !DAILY-X-PROMPT.md
+!x-posts-engine.md
 !README.md

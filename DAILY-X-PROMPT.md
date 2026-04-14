@@ -219,7 +219,9 @@ For each target post, draft a reply:
 
 ### 3. Content Idea
 
-Generate 1 content idea for the backlog. Don't draft it, just describe the angle and which pillar it maps to.
+Read `x-posts-engine.md` in the repo root for the full post crafting guide. Use it to generate ideas and drafts.
+
+Generate 1 content idea for the backlog. If David is in Phase 2+, draft the post using the x-posts-engine.md framework. If Phase 1, just describe the angle and which pillar it maps to.
 
 Content Pillars:
 1. Tech-for-Good Mission
